@@ -1,0 +1,3 @@
+EBUG:root:This message should go to the log file
+NFO:root:So should this
+WARNING:root:And this, too
